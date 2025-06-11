@@ -7,7 +7,7 @@ Additionally, the network will incorporate a **wireless communication component 
 
  # Logical and physical network diagram: 
 
-[![Figma Design for diagrams](path/to/your/image.png)](https://www.figma.com/design/i5gnODzQy96CFGwsyb3TJU/Untitled?node-id=0-1&t=un5PoFwpIqhN0i5b-1)
+[![Figma Design for diagrams](path/to/your/image.png)](https://www.figma.com/design/i5gnODzQy96CFGwsyb3TJU/Untitled?node-id=0-1&t=2iLPETTMHFuMufJZ-1)
 
 ---
 
